@@ -1,1 +1,0 @@
-*ERROR* 	2017/11/04 - 15:24:53: Link to database cannot be established:SQLSTATE[HY000] [1049] Unknown database 'mysql' at line 102 in file classes/db/DbPDO.php

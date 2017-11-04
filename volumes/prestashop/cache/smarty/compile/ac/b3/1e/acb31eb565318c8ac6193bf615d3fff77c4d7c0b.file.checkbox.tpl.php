@@ -1,17 +1,17 @@
-<?php /* Smarty version Smarty-3.1.19, created on 2017-11-04 15:13:31
+<?php /* Smarty version Smarty-3.1.19, created on 2017-11-04 15:44:09
          compiled from "/var/www/html/admin/themes/default/template/controllers/products/multishop/checkbox.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:179872812959fdcb0baba656-55695402%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:195399316059fdd2398ba357-83262144%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
     'acb31eb565318c8ac6193bf615d3fff77c4d7c0b' => 
     array (
       0 => '/var/www/html/admin/themes/default/template/controllers/products/multishop/checkbox.tpl',
-      1 => 1509804583,
+      1 => 1509806631,
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '179872812959fdcb0baba656-55695402',
+  'nocache_hash' => '195399316059fdd2398ba357-83262144',
   'function' => 
   array (
   ),
@@ -28,9 +28,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_59fdcb0bb0d3e7_98370373',
+  'unifunc' => 'content_59fdd2398db5a3_83650291',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_59fdcb0bb0d3e7_98370373')) {function content_59fdcb0bb0d3e7_98370373($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_59fdd2398db5a3_83650291')) {function content_59fdd2398db5a3_83650291($_smarty_tpl) {?>
 
 <?php if (isset($_smarty_tpl->tpl_vars['display_multishop_checkboxes']->value)&&$_smarty_tpl->tpl_vars['display_multishop_checkboxes']->value) {?>
 	<?php if (isset($_smarty_tpl->tpl_vars['multilang']->value)&&$_smarty_tpl->tpl_vars['multilang']->value) {?>

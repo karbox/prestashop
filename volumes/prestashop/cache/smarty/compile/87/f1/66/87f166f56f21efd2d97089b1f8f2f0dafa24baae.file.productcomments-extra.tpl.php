@@ -1,17 +1,17 @@
-<?php /* Smarty version Smarty-3.1.19, created on 2017-11-04 15:13:33
+<?php /* Smarty version Smarty-3.1.19, created on 2017-11-04 15:44:10
          compiled from "/var/www/html/themes/default-bootstrap/modules/productcomments/productcomments-extra.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:183323672559fdcb0dcb2b09-22559035%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:193469766759fdd23a251853-92391174%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
     '87f166f56f21efd2d97089b1f8f2f0dafa24baae' => 
     array (
       0 => '/var/www/html/themes/default-bootstrap/modules/productcomments/productcomments-extra.tpl',
-      1 => 1509804474,
+      1 => 1509806631,
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '183323672559fdcb0dcb2b09-22559035',
+  'nocache_hash' => '193469766759fdd23a251853-92391174',
   'function' => 
   array (
   ),
@@ -27,9 +27,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_59fdcb0ddbe533_88204199',
+  'unifunc' => 'content_59fdd23a25d4a0_84330673',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_59fdcb0ddbe533_88204199')) {function content_59fdcb0ddbe533_88204199($_smarty_tpl) {?> 
+<?php if ($_valid && !is_callable('content_59fdd23a25d4a0_84330673')) {function content_59fdd23a25d4a0_84330673($_smarty_tpl) {?> 
 <?php if ((!$_smarty_tpl->tpl_vars['content_only']->value&&(($_smarty_tpl->tpl_vars['nbComments']->value==0&&$_smarty_tpl->tpl_vars['too_early']->value==false&&($_smarty_tpl->tpl_vars['is_logged']->value||$_smarty_tpl->tpl_vars['allow_guests']->value))||($_smarty_tpl->tpl_vars['nbComments']->value!=0)))) {?>
 <div id="product_comments_block_extra" class="no-print" itemprop="aggregateRating" itemscope itemtype="https://schema.org/AggregateRating">
 	<?php if ($_smarty_tpl->tpl_vars['nbComments']->value!=0) {?>

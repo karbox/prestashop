@@ -1,17 +1,17 @@
-<?php /* Smarty version Smarty-3.1.19, created on 2017-11-04 15:13:31
+<?php /* Smarty version Smarty-3.1.19, created on 2017-11-04 15:44:09
          compiled from "/var/www/html/admin/themes/default/template/controllers/products/informations.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:53697014259fdcb0be37c97-05718165%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:170881111459fdd2399c7400-62197251%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
     '6a7a5cb2259384caf3233cef7cf471c71a7868e4' => 
     array (
       0 => '/var/www/html/admin/themes/default/template/controllers/products/informations.tpl',
-      1 => 1509804583,
+      1 => 1509806631,
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '53697014259fdcb0be37c97-05718165',
+  'nocache_hash' => '170881111459fdd2399c7400-62197251',
   'function' => 
   array (
   ),
@@ -44,9 +44,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_59fdcb0c3bc097_29058638',
+  'unifunc' => 'content_59fdd239aa8c26_07672929',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_59fdcb0c3bc097_29058638')) {function content_59fdcb0c3bc097_29058638($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_59fdd239aa8c26_07672929')) {function content_59fdd239aa8c26_07672929($_smarty_tpl) {?>
 <?php if ($_smarty_tpl->tpl_vars['check_product_association_ajax']->value) {?>
 	<?php $_smarty_tpl->tpl_vars['class_input_ajax'] = new Smarty_variable('check_product_name ', null, 0);?>
 <?php } else { ?>
@@ -191,7 +191,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 			</span>
 		</label>
 		<div class="col-lg-5">
-			<?php ob_start();?><?php if (!$_smarty_tpl->tpl_vars['product']->value->id||Configuration::get('PS_FORCE_FRIENDLY_PRODUCT')) {?><?php echo "copy2friendlyUrl";?><?php }?><?php $_tmp5=ob_get_clean();?><?php echo $_smarty_tpl->getSubTemplate ("controllers/products/input_text_lang.tpl", $_smarty_tpl->cache_id, $_smarty_tpl->compile_id, 0, null, array('languages'=>$_smarty_tpl->tpl_vars['languages']->value,'input_class'=>((string)$_smarty_tpl->tpl_vars['class_input_ajax']->value).$_tmp5." updateCurrentText",'input_value'=>$_smarty_tpl->tpl_vars['product']->value->name,'input_name'=>"name",'required'=>true), 0);?>
+			<?php ob_start();?><?php if (!$_smarty_tpl->tpl_vars['product']->value->id||Configuration::get('PS_FORCE_FRIENDLY_PRODUCT')) {?><?php echo "copy2friendlyUrl";?><?php }?><?php $_tmp17=ob_get_clean();?><?php echo $_smarty_tpl->getSubTemplate ("controllers/products/input_text_lang.tpl", $_smarty_tpl->cache_id, $_smarty_tpl->compile_id, 0, null, array('languages'=>$_smarty_tpl->tpl_vars['languages']->value,'input_class'=>((string)$_smarty_tpl->tpl_vars['class_input_ajax']->value).$_tmp17." updateCurrentText",'input_value'=>$_smarty_tpl->tpl_vars['product']->value->name,'input_name'=>"name",'required'=>true), 0);?>
 
 		</div>
 	</div>

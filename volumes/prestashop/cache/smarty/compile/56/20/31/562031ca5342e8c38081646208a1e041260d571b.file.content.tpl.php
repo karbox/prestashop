@@ -1,17 +1,17 @@
-<?php /* Smarty version Smarty-3.1.19, created on 2017-11-04 15:13:33
+<?php /* Smarty version Smarty-3.1.19, created on 2017-11-04 15:44:10
          compiled from "/var/www/html/admin/themes/default/template/controllers/attribute_generator/content.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:107297818559fdcb0d979277-30793386%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:197135829459fdd23a54c7f6-53632341%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
     '562031ca5342e8c38081646208a1e041260d571b' => 
     array (
       0 => '/var/www/html/admin/themes/default/template/controllers/attribute_generator/content.tpl',
-      1 => 1509804583,
+      1 => 1509806631,
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '107297818559fdcb0d979277-30793386',
+  'nocache_hash' => '197135829459fdd23a54c7f6-53632341',
   'function' => 
   array (
   ),
@@ -40,9 +40,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_59fdcb0da72fe2_10702900',
+  'unifunc' => 'content_59fdd23a5b07f9_61159525',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_59fdcb0da72fe2_10702900')) {function content_59fdcb0da72fe2_10702900($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_59fdd23a5b07f9_61159525')) {function content_59fdd23a5b07f9_61159525($_smarty_tpl) {?>
 
 <script type="text/javascript">
 	var attrs = new Array();
@@ -65,7 +65,7 @@ $_smarty_tpl->tpl_vars['attrname']->_loop = true;
  $_smarty_tpl->tpl_vars['idattr']->value = $_smarty_tpl->tpl_vars['attrname']->key;
 ?>
 			<?php ob_start();?><?php echo htmlspecialchars($_smarty_tpl->tpl_vars['attrname']->value, ENT_QUOTES, 'UTF-8', true);?>
-<?php $_tmp10=ob_get_clean();?><?php $_smarty_tpl->tpl_vars["row"] = new Smarty_variable(((string)$_smarty_tpl->tpl_vars['row']->value).", ".((string)$_smarty_tpl->tpl_vars['idattr']->value).", '".$_tmp10."'", null, 0);?>
+<?php $_tmp22=ob_get_clean();?><?php $_smarty_tpl->tpl_vars["row"] = new Smarty_variable(((string)$_smarty_tpl->tpl_vars['row']->value).", ".((string)$_smarty_tpl->tpl_vars['idattr']->value).", '".$_tmp22."'", null, 0);?>
 		<?php } ?>
 
 		<?php $_smarty_tpl->tpl_vars["row"] = new Smarty_variable(((string)$_smarty_tpl->tpl_vars['row']->value).");", null, 0);?>

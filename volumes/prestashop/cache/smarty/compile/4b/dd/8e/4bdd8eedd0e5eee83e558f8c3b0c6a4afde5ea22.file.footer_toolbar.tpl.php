@@ -1,17 +1,17 @@
-<?php /* Smarty version Smarty-3.1.19, created on 2017-11-04 15:13:34
+<?php /* Smarty version Smarty-3.1.19, created on 2017-11-04 15:44:10
          compiled from "/var/www/html/admin/themes/default/template/footer_toolbar.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:73331500759fdcb0e314322-88114164%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:77087222759fdd23a738019-72552096%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
     '4bdd8eedd0e5eee83e558f8c3b0c6a4afde5ea22' => 
     array (
       0 => '/var/www/html/admin/themes/default/template/footer_toolbar.tpl',
-      1 => 1509804583,
+      1 => 1509806631,
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '73331500759fdcb0e314322-88114164',
+  'nocache_hash' => '77087222759fdd23a738019-72552096',
   'function' => 
   array (
   ),
@@ -25,9 +25,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_59fdcb0e396d54_15611319',
+  'unifunc' => 'content_59fdd23a75b726_07686523',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_59fdcb0e396d54_15611319')) {function content_59fdcb0e396d54_15611319($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_59fdd23a75b726_07686523')) {function content_59fdd23a75b726_07686523($_smarty_tpl) {?>
 <?php if ($_smarty_tpl->tpl_vars['show_toolbar']->value) {?>
 <div class="panel-footer" id="toolbar-footer">
 	<?php  $_smarty_tpl->tpl_vars['btn'] = new Smarty_Variable; $_smarty_tpl->tpl_vars['btn']->_loop = false;

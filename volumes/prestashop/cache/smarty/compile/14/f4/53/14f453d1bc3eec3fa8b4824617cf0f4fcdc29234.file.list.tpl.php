@@ -1,17 +1,17 @@
-<?php /* Smarty version Smarty-3.1.19, created on 2017-11-04 15:13:27
+<?php /* Smarty version Smarty-3.1.19, created on 2017-11-04 15:44:06
          compiled from "/var/www/html/admin/themes/default/template/helpers/shops_list/list.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:210398260059fdcb075c7ff9-01892185%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:13009172959fdd2368a1096-05806277%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
     '14f453d1bc3eec3fa8b4824617cf0f4fcdc29234' => 
     array (
       0 => '/var/www/html/admin/themes/default/template/helpers/shops_list/list.tpl',
-      1 => 1509804583,
+      1 => 1509806631,
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '210398260059fdcb075c7ff9-01892185',
+  'nocache_hash' => '13009172959fdd2368a1096-05806277',
   'function' => 
   array (
   ),
@@ -32,9 +32,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_59fdcb076da5e7_57536684',
+  'unifunc' => 'content_59fdd2369b7b03_50207834',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_59fdcb076da5e7_57536684')) {function content_59fdcb076da5e7_57536684($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_59fdd2369b7b03_50207834')) {function content_59fdd2369b7b03_50207834($_smarty_tpl) {?>
 <a href="javascript:void(0)" class="dropdown-toggle" data-toggle="dropdown"><?php echo $_smarty_tpl->tpl_vars['current_shop_name']->value;?>
  <i class="icon-caret-down"></i></a><ul class="dropdown-menu"><li<?php if (!isset($_smarty_tpl->tpl_vars['current_shop_value']->value)||$_smarty_tpl->tpl_vars['current_shop_value']->value=='') {?> class="active"<?php }?>><a href="<?php echo htmlspecialchars($_smarty_tpl->tpl_vars['url']->value, ENT_QUOTES, 'UTF-8', true);?>
 "><?php echo smartyTranslate(array('s'=>'All shops'),$_smarty_tpl);?>

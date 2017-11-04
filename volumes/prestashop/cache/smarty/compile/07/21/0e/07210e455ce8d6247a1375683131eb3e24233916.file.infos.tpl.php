@@ -1,25 +1,25 @@
-<?php /* Smarty version Smarty-3.1.19, created on 2017-11-04 15:13:32
+<?php /* Smarty version Smarty-3.1.19, created on 2017-11-04 15:44:09
          compiled from "/var/www/html/themes/default-bootstrap/modules/cheque/views/templates/hook/infos.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:186471084759fdcb0c079c68-51839249%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:210824256559fdd23970a203-19457062%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
     '07210e455ce8d6247a1375683131eb3e24233916' => 
     array (
       0 => '/var/www/html/themes/default-bootstrap/modules/cheque/views/templates/hook/infos.tpl',
-      1 => 1509804474,
+      1 => 1509806631,
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '186471084759fdcb0c079c68-51839249',
+  'nocache_hash' => '210824256559fdd23970a203-19457062',
   'function' => 
   array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_59fdcb0c091687_66342688',
+  'unifunc' => 'content_59fdd23970be37_65360450',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_59fdcb0c091687_66342688')) {function content_59fdcb0c091687_66342688($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_59fdd23970be37_65360450')) {function content_59fdd23970be37_65360450($_smarty_tpl) {?>
 
 <div class="alert alert-info">
 <img src="../modules/cheque/cheque.jpg" style="float:left; margin-right:15px;" width="86" height="49">

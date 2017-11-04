@@ -1,17 +1,17 @@
-<?php /* Smarty version Smarty-3.1.19, created on 2017-11-04 15:13:30
+<?php /* Smarty version Smarty-3.1.19, created on 2017-11-04 15:44:09
          compiled from "/var/www/html/themes/default-bootstrap/modules/bankwire/views/templates/hook/payment.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:96920692759fdcb0ad984d5-58741722%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:66738199559fdd239243666-44379897%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
     '111dfb65b893edf34122e38eb99af6faeaa95af4' => 
     array (
       0 => '/var/www/html/themes/default-bootstrap/modules/bankwire/views/templates/hook/payment.tpl',
-      1 => 1509804474,
+      1 => 1509806631,
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '96920692759fdcb0ad984d5-58741722',
+  'nocache_hash' => '66738199559fdd239243666-44379897',
   'function' => 
   array (
   ),
@@ -21,9 +21,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_59fdcb0adc9872_84580420',
+  'unifunc' => 'content_59fdd2392470e8_97203371',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_59fdcb0adc9872_84580420')) {function content_59fdcb0adc9872_84580420($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_59fdd2392470e8_97203371')) {function content_59fdd2392470e8_97203371($_smarty_tpl) {?>
 <div class="row">
 	<div class="col-xs-12">
 		<p class="payment_module">

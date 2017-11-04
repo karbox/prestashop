@@ -1,17 +1,17 @@
-<?php /* Smarty version Smarty-3.1.19, created on 2017-11-04 15:13:31
+<?php /* Smarty version Smarty-3.1.19, created on 2017-11-04 15:44:09
          compiled from "/var/www/html/themes/default-bootstrap/modules/loyalty/views/templates/hook/product.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:118554808759fdcb0b0781b7-94892658%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:165049503759fdd2392d9d80-28305605%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
     'ec8c52606828e27ff7174afa9d3af2ff4d872d5e' => 
     array (
       0 => '/var/www/html/themes/default-bootstrap/modules/loyalty/views/templates/hook/product.tpl',
-      1 => 1509804474,
+      1 => 1509806631,
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '118554808759fdcb0b0781b7-94892658',
+  'nocache_hash' => '165049503759fdd2392d9d80-28305605',
   'function' => 
   array (
   ),
@@ -28,9 +28,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_59fdcb0b0e75f5_67825609',
+  'unifunc' => 'content_59fdd239307818_82092182',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_59fdcb0b0e75f5_67825609')) {function content_59fdcb0b0e75f5_67825609($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_59fdd239307818_82092182')) {function content_59fdd239307818_82092182($_smarty_tpl) {?>
 <p id="loyalty" class="align_justify">
 	<?php if ($_smarty_tpl->tpl_vars['points']->value) {?>
 		<?php echo smartyTranslate(array('s'=>'By buying this product you can collect up to','mod'=>'loyalty'),$_smarty_tpl);?>

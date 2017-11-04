@@ -1,17 +1,17 @@
-<?php /* Smarty version Smarty-3.1.19, created on 2017-11-04 15:13:29
+<?php /* Smarty version Smarty-3.1.19, created on 2017-11-04 15:44:08
          compiled from "/var/www/html/admin/themes/default/template/controllers/cart_rules/informations.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:172239656159fdcb091c50a9-56331916%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:145850234959fdd23871e544-55190175%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
     '6f085f8ed90915331a2f363608ab9f01bbe26d37' => 
     array (
       0 => '/var/www/html/admin/themes/default/template/controllers/cart_rules/informations.tpl',
-      1 => 1509804583,
+      1 => 1509806631,
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '172239656159fdcb091c50a9-56331916',
+  'nocache_hash' => '145850234959fdd23871e544-55190175',
   'function' => 
   array (
   ),
@@ -25,9 +25,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_59fdcb09289604_34228052',
+  'unifunc' => 'content_59fdd238764ec6_59486839',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_59fdcb09289604_34228052')) {function content_59fdcb09289604_34228052($_smarty_tpl) {?><div class="form-group">
+<?php if ($_valid && !is_callable('content_59fdd238764ec6_59486839')) {function content_59fdd238764ec6_59486839($_smarty_tpl) {?><div class="form-group">
 	<label class="control-label col-lg-3 required">
 		<span class="label-tooltip" data-toggle="tooltip"
 		title="<?php echo smartyTranslate(array('s'=>'This will be displayed in the cart summary, as well as on the invoice.'),$_smarty_tpl);?>

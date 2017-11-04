@@ -1,17 +1,17 @@
-<?php /* Smarty version Smarty-3.1.19, created on 2017-11-04 15:13:32
+<?php /* Smarty version Smarty-3.1.19, created on 2017-11-04 15:44:09
          compiled from "/var/www/html/themes/default-bootstrap/modules/blockcontact/nav.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:164840772659fdcb0cf22ed0-49731009%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:13931716359fdd239a62688-84795246%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
     '3d5b1584ffcf7c8b56d0c79b9f00a62f9454dc0f' => 
     array (
       0 => '/var/www/html/themes/default-bootstrap/modules/blockcontact/nav.tpl',
-      1 => 1509804474,
+      1 => 1509806631,
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '164840772659fdcb0cf22ed0-49731009',
+  'nocache_hash' => '13931716359fdd239a62688-84795246',
   'function' => 
   array (
   ),
@@ -23,9 +23,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_59fdcb0cf2a750_52178990',
+  'unifunc' => 'content_59fdd239a67c19_19829774',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_59fdcb0cf2a750_52178990')) {function content_59fdcb0cf2a750_52178990($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_59fdd239a67c19_19829774')) {function content_59fdd239a67c19_19829774($_smarty_tpl) {?>
 <div id="contact-link" <?php if (isset($_smarty_tpl->tpl_vars['is_logged']->value)&&$_smarty_tpl->tpl_vars['is_logged']->value) {?> class="is_logged"<?php }?>>
 	<a href="<?php echo htmlspecialchars($_smarty_tpl->tpl_vars['link']->value->getPageLink('contact',true), ENT_QUOTES, 'UTF-8', true);?>
 " title="<?php echo smartyTranslate(array('s'=>'Contact us','mod'=>'blockcontact'),$_smarty_tpl);?>
