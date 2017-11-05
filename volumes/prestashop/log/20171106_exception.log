@@ -5,3 +5,8 @@
 *ERROR* 	2017/11/06 - 00:17:40: Link to database cannot be established:SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Name or service not known at line 102 in file classes/db/DbPDO.php
 *ERROR* 	2017/11/06 - 00:18:53: Link to database cannot be established:SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Name or service not known at line 102 in file classes/db/DbPDO.php
 *ERROR* 	2017/11/06 - 00:18:56: Link to database cannot be established:SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Name or service not known at line 102 in file classes/db/DbPDO.php
+*ERROR* 	2017/11/06 - 00:20:38: Link to database cannot be established:SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Name or service not known at line 102 in file classes/db/DbPDO.php
+*ERROR* 	2017/11/06 - 00:20:39: Link to database cannot be established:SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Name or service not known at line 102 in file classes/db/DbPDO.php
+*ERROR* 	2017/11/06 - 00:20:41: Link to database cannot be established:SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Name or service not known at line 102 in file classes/db/DbPDO.php
+*ERROR* 	2017/11/06 - 00:25:24: Link to database cannot be established:SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Name or service not known at line 102 in file classes/db/DbPDO.php
+*ERROR* 	2017/11/06 - 00:25:25: Link to database cannot be established:SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Name or service not known at line 102 in file classes/db/DbPDO.php
