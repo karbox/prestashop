@@ -1,15 +1,15 @@
-<?php /*%%SmartyHeaderCode:30747856559fdd40127a849-99875441%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:64724261359ff90d7052b53-09041658%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
     '1d89e8014f347982d948469f9543b359301e5949' => 
     array (
       0 => '/var/www/html/themes/default-bootstrap/modules/blockcms/blockcms.tpl',
-      1 => 1509806631,
+      1 => 1509890571,
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '30747856559fdd40127a849-99875441',
+  'nocache_hash' => '64724261359ff90d7052b53-09041658',
   'variables' => 
   array (
     'block' => 0,
@@ -33,10 +33,10 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => true,
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_59fdd4012ac8c7_01374287',
+  'unifunc' => 'content_59ff90d70e1075_64634572',
   'cache_lifetime' => 31536000,
 ),true); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_59fdd4012ac8c7_01374287')) {function content_59fdd4012ac8c7_01374287($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_59ff90d70e1075_64634572')) {function content_59ff90d70e1075_64634572($_smarty_tpl) {?>
 	<!-- Block CMS module footer -->
 	<section class="footer-block col-xs-12 col-sm-2" id="block_various_links_footer">
 		<h4>Informacja</h4>
@@ -67,13 +67,13 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 				</a>
 			</li>
 															<li class="item">
-						<a href="http://localhost:8080/content/3-terms-and-conditions-of-use" title="Terms and conditions of use">
-							Terms and conditions of use
+						<a href="http://localhost:8080/content/3-warunki-uzytkowania" title="Warunki użytkowania">
+							Warunki użytkowania
 						</a>
 					</li>
 																<li class="item">
-						<a href="http://localhost:8080/content/4-about-us" title="About us">
-							About us
+						<a href="http://localhost:8080/content/4-o-nas" title="O nas">
+							O nas
 						</a>
 					</li>
 													<li>
