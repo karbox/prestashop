@@ -11,11 +11,11 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'nocache_hash' => '82177334959ff90d7250f73-84734614',
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_59ff96fe20bb33_99269952',
+  'unifunc' => 'content_5a0055892a95c4_56293369',
   'has_nocache_code' => false,
   'cache_lifetime' => 31536000,
 ),true); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_59ff96fe20bb33_99269952')) {function content_59ff96fe20bb33_99269952($_smarty_tpl) {?><div id="contact-link" >
+<?php if ($_valid && !is_callable('content_5a0055892a95c4_56293369')) {function content_5a0055892a95c4_56293369($_smarty_tpl) {?><div id="contact-link" >
 	<a href="http://localhost:8080/kontakt" title="Kontakt z nami">Kontakt z nami</a>
 </div>
 	<span class="shop-phone">
