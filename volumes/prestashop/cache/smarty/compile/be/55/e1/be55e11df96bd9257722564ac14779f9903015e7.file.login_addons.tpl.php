@@ -1,4 +1,4 @@
-<?php /* Smarty version Smarty-3.1.19, created on 2017-11-06 13:12:33
+<?php /* Smarty version Smarty-3.1.19, created on 2017-11-06 14:39:28
          compiled from "/var/www/html/admin1/themes/default/template/controllers/modules/login_addons.tpl" */ ?>
 <?php /*%%SmartyHeaderCode:173191242059ff86b302c8a6-25176337%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
@@ -7,7 +7,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     'be55e11df96bd9257722564ac14779f9903015e7' => 
     array (
       0 => '/var/www/html/admin1/themes/default/template/controllers/modules/login_addons.tpl',
-      1 => 1509970259,
+      1 => 1509975438,
       2 => 'file',
     ),
   ),
