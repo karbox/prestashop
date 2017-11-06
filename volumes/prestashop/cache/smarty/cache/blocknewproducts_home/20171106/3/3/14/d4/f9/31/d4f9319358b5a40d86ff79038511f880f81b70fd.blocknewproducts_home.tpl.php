@@ -17,11 +17,11 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'nocache_hash' => '138348228259ff9a34141ee2-70717671',
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_5a007311c748a3_95295539',
+  'unifunc' => 'content_5a00779637f0e6_51271543',
   'has_nocache_code' => false,
   'cache_lifetime' => 31536000,
 ),true); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_5a007311c748a3_95295539')) {function content_5a007311c748a3_95295539($_smarty_tpl) {?>		
+<?php if ($_valid && !is_callable('content_5a00779637f0e6_51271543')) {function content_5a00779637f0e6_51271543($_smarty_tpl) {?>		
 									
 		
 	
@@ -314,7 +314,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 			
 		
 		
-								<li class="ajax_block_product col-xs-12 col-sm-4 col-md-3 first-in-line last-line first-item-of-mobile-line">
+								<li class="ajax_block_product col-xs-12 col-sm-4 col-md-3 first-in-line first-item-of-mobile-line">
 			<div class="product-container" itemscope itemtype="https://schema.org/Product">
 				<div class="left-block">
 					<div class="product-image-container">
@@ -385,7 +385,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 			
 		
 		
-								<li class="ajax_block_product col-xs-12 col-sm-4 col-md-3 last-line last-item-of-tablet-line last-item-of-mobile-line">
+								<li class="ajax_block_product col-xs-12 col-sm-4 col-md-3 last-item-of-tablet-line last-item-of-mobile-line">
 			<div class="product-container" itemscope itemtype="https://schema.org/Product">
 				<div class="left-block">
 					<div class="product-image-container">
@@ -456,7 +456,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 			
 		
 		
-								<li class="ajax_block_product col-xs-12 col-sm-4 col-md-3 last-line first-item-of-tablet-line first-item-of-mobile-line last-mobile-line">
+								<li class="ajax_block_product col-xs-12 col-sm-4 col-md-3 first-item-of-tablet-line first-item-of-mobile-line">
 			<div class="product-container" itemscope itemtype="https://schema.org/Product">
 				<div class="left-block">
 					<div class="product-image-container">
@@ -527,7 +527,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 			
 		
 		
-								<li class="ajax_block_product col-xs-12 col-sm-4 col-md-3 last-in-line last-line last-item-of-mobile-line last-mobile-line">
+								<li class="ajax_block_product col-xs-12 col-sm-4 col-md-3 last-in-line last-item-of-mobile-line">
 			<div class="product-container" itemscope itemtype="https://schema.org/Product">
 				<div class="left-block">
 					<div class="product-image-container">
@@ -583,6 +583,290 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 									<span>Dodaj do koszyka</span>
 								</a>
 																			<a class="button lnk_view btn btn-default" href="http://localhost:8080/rock/8-DayOfTheGusano.html" title="Zobacz">
+							<span>Więcej</span>
+						</a>
+					</div>
+										<div class="product-flags">
+																																					</div>
+																		<span class="availability">
+																	<span class=" label-success">
+										W magazynie									</span>
+															</span>
+															</div>
+							</div><!-- .product-container> -->
+		</li>
+			
+		
+		
+								<li class="ajax_block_product col-xs-12 col-sm-4 col-md-3 first-in-line last-line last-item-of-tablet-line first-item-of-mobile-line">
+			<div class="product-container" itemscope itemtype="https://schema.org/Product">
+				<div class="left-block">
+					<div class="product-image-container">
+						<a class="product_img_link" href="http://localhost:8080/xmasvocal/9-LetItSnow.html" title="98 Degrees - Let It Snow" itemprop="url">
+							<img class="replace-2x img-responsive" src="http://localhost:8080/9-home_default/LetItSnow.jpg" alt="98 Degrees - Let It Snow" title="98 Degrees - Let It Snow"  width="250" height="250" itemprop="image" />
+						</a>
+													<div class="quick-view-wrapper-mobile">
+							<a class="quick-view-mobile" href="http://localhost:8080/xmasvocal/9-LetItSnow.html" rel="http://localhost:8080/xmasvocal/9-LetItSnow.html">
+								<i class="icon-eye-open"></i>
+							</a>
+						</div>
+						<a class="quick-view" href="http://localhost:8080/xmasvocal/9-LetItSnow.html" rel="http://localhost:8080/xmasvocal/9-LetItSnow.html">
+							<span>Szybki podgląd</span>
+						</a>
+																			<div class="content_price" itemprop="offers" itemscope itemtype="https://schema.org/Offer">
+																	<span itemprop="price" class="price product-price">
+										
+										25,83 zł									</span>
+									<meta itemprop="priceCurrency" content="PLN" />
+																												<span class="unvisible">
+																								<link itemprop="availability" href="https://schema.org/InStock" />W magazynie																					</span>
+																		
+									
+															</div>
+																			<a class="new-box" href="http://localhost:8080/xmasvocal/9-LetItSnow.html">
+								<span class="new-label">Nowy</span>
+							</a>
+																			<a class="sale-box" href="http://localhost:8080/xmasvocal/9-LetItSnow.html">
+								<span class="sale-label">Wyprzedaż!</span>
+							</a>
+											</div>
+										
+				</div>
+				<div class="right-block">
+					<h5 itemprop="name">
+												<a class="product-name" href="http://localhost:8080/xmasvocal/9-LetItSnow.html" title="98 Degrees - Let It Snow" itemprop="url" >
+							98 Degrees - Let It Snow
+						</a>
+					</h5>
+															<p class="product-desc" itemprop="description">
+						
+					</p>
+										<div class="content_price">
+													
+							<span class="price product-price">
+								25,83 zł							</span>
+														
+							
+							
+											</div>
+										<div class="button-container">
+																													<a class="button ajax_add_to_cart_button btn btn-default" href="http://localhost:8080/koszyk?add=1&amp;id_product=9&amp;token=f4841a5fcdf21614b267363a484f8a45" rel="nofollow" title="Dodaj do koszyka" data-id-product-attribute="0" data-id-product="9" data-minimal_quantity="1">
+									<span>Dodaj do koszyka</span>
+								</a>
+																			<a class="button lnk_view btn btn-default" href="http://localhost:8080/xmasvocal/9-LetItSnow.html" title="Zobacz">
+							<span>Więcej</span>
+						</a>
+					</div>
+										<div class="product-flags">
+																																					</div>
+																		<span class="availability">
+																	<span class=" label-success">
+										W magazynie									</span>
+															</span>
+															</div>
+							</div><!-- .product-container> -->
+		</li>
+			
+		
+		
+								<li class="ajax_block_product col-xs-12 col-sm-4 col-md-3 last-line first-item-of-tablet-line last-item-of-mobile-line">
+			<div class="product-container" itemscope itemtype="https://schema.org/Product">
+				<div class="left-block">
+					<div class="product-image-container">
+						<a class="product_img_link" href="http://localhost:8080/rock/10-HornbookForWitchesStoriesPoemsForHalloween.html" title="Vincent Price - Hornbook For Witches Stories &amp; Poems For Halloween" itemprop="url">
+							<img class="replace-2x img-responsive" src="http://localhost:8080/10-home_default/HornbookForWitchesStoriesPoemsForHalloween.jpg" alt="Vincent Price - Hornbook For Witches Stories &amp; Poems For Halloween" title="Vincent Price - Hornbook For Witches Stories &amp; Poems For Halloween"  width="250" height="250" itemprop="image" />
+						</a>
+													<div class="quick-view-wrapper-mobile">
+							<a class="quick-view-mobile" href="http://localhost:8080/rock/10-HornbookForWitchesStoriesPoemsForHalloween.html" rel="http://localhost:8080/rock/10-HornbookForWitchesStoriesPoemsForHalloween.html">
+								<i class="icon-eye-open"></i>
+							</a>
+						</div>
+						<a class="quick-view" href="http://localhost:8080/rock/10-HornbookForWitchesStoriesPoemsForHalloween.html" rel="http://localhost:8080/rock/10-HornbookForWitchesStoriesPoemsForHalloween.html">
+							<span>Szybki podgląd</span>
+						</a>
+																			<div class="content_price" itemprop="offers" itemscope itemtype="https://schema.org/Offer">
+																	<span itemprop="price" class="price product-price">
+										
+										27,06 zł									</span>
+									<meta itemprop="priceCurrency" content="PLN" />
+																												<span class="unvisible">
+																								<link itemprop="availability" href="https://schema.org/InStock" />W magazynie																					</span>
+																		
+									
+															</div>
+																			<a class="new-box" href="http://localhost:8080/rock/10-HornbookForWitchesStoriesPoemsForHalloween.html">
+								<span class="new-label">Nowy</span>
+							</a>
+																			<a class="sale-box" href="http://localhost:8080/rock/10-HornbookForWitchesStoriesPoemsForHalloween.html">
+								<span class="sale-label">Wyprzedaż!</span>
+							</a>
+											</div>
+										
+				</div>
+				<div class="right-block">
+					<h5 itemprop="name">
+												<a class="product-name" href="http://localhost:8080/rock/10-HornbookForWitchesStoriesPoemsForHalloween.html" title="Vincent Price - Hornbook For Witches Stories &amp; Poems For Halloween" itemprop="url" >
+							Vincent Price - Hornbook For Witches...
+						</a>
+					</h5>
+															<p class="product-desc" itemprop="description">
+						
+					</p>
+										<div class="content_price">
+													
+							<span class="price product-price">
+								27,06 zł							</span>
+														
+							
+							
+											</div>
+										<div class="button-container">
+																													<a class="button ajax_add_to_cart_button btn btn-default" href="http://localhost:8080/koszyk?add=1&amp;id_product=10&amp;token=f4841a5fcdf21614b267363a484f8a45" rel="nofollow" title="Dodaj do koszyka" data-id-product-attribute="0" data-id-product="10" data-minimal_quantity="1">
+									<span>Dodaj do koszyka</span>
+								</a>
+																			<a class="button lnk_view btn btn-default" href="http://localhost:8080/rock/10-HornbookForWitchesStoriesPoemsForHalloween.html" title="Zobacz">
+							<span>Więcej</span>
+						</a>
+					</div>
+										<div class="product-flags">
+																																					</div>
+																		<span class="availability">
+																	<span class=" label-success">
+										W magazynie									</span>
+															</span>
+															</div>
+							</div><!-- .product-container> -->
+		</li>
+			
+		
+		
+								<li class="ajax_block_product col-xs-12 col-sm-4 col-md-3 last-line first-item-of-mobile-line last-mobile-line">
+			<div class="product-container" itemscope itemtype="https://schema.org/Product">
+				<div class="left-block">
+					<div class="product-image-container">
+						<a class="product_img_link" href="http://localhost:8080/rock/11-913.html" title="Iron Monkey - 9-13" itemprop="url">
+							<img class="replace-2x img-responsive" src="http://localhost:8080/11-home_default/913.jpg" alt="Iron Monkey - 9-13" title="Iron Monkey - 9-13"  width="250" height="250" itemprop="image" />
+						</a>
+													<div class="quick-view-wrapper-mobile">
+							<a class="quick-view-mobile" href="http://localhost:8080/rock/11-913.html" rel="http://localhost:8080/rock/11-913.html">
+								<i class="icon-eye-open"></i>
+							</a>
+						</div>
+						<a class="quick-view" href="http://localhost:8080/rock/11-913.html" rel="http://localhost:8080/rock/11-913.html">
+							<span>Szybki podgląd</span>
+						</a>
+																			<div class="content_price" itemprop="offers" itemscope itemtype="https://schema.org/Offer">
+																	<span itemprop="price" class="price product-price">
+										
+										22,14 zł									</span>
+									<meta itemprop="priceCurrency" content="PLN" />
+																												<span class="unvisible">
+																								<link itemprop="availability" href="https://schema.org/InStock" />W magazynie																					</span>
+																		
+									
+															</div>
+																			<a class="new-box" href="http://localhost:8080/rock/11-913.html">
+								<span class="new-label">Nowy</span>
+							</a>
+																			<a class="sale-box" href="http://localhost:8080/rock/11-913.html">
+								<span class="sale-label">Wyprzedaż!</span>
+							</a>
+											</div>
+										
+				</div>
+				<div class="right-block">
+					<h5 itemprop="name">
+												<a class="product-name" href="http://localhost:8080/rock/11-913.html" title="Iron Monkey - 9-13" itemprop="url" >
+							Iron Monkey - 9-13
+						</a>
+					</h5>
+															<p class="product-desc" itemprop="description">
+						
+					</p>
+										<div class="content_price">
+													
+							<span class="price product-price">
+								22,14 zł							</span>
+														
+							
+							
+											</div>
+										<div class="button-container">
+																													<a class="button ajax_add_to_cart_button btn btn-default" href="http://localhost:8080/koszyk?add=1&amp;id_product=11&amp;token=f4841a5fcdf21614b267363a484f8a45" rel="nofollow" title="Dodaj do koszyka" data-id-product-attribute="0" data-id-product="11" data-minimal_quantity="1">
+									<span>Dodaj do koszyka</span>
+								</a>
+																			<a class="button lnk_view btn btn-default" href="http://localhost:8080/rock/11-913.html" title="Zobacz">
+							<span>Więcej</span>
+						</a>
+					</div>
+										<div class="product-flags">
+																																					</div>
+																		<span class="availability">
+																	<span class=" label-success">
+										W magazynie									</span>
+															</span>
+															</div>
+							</div><!-- .product-container> -->
+		</li>
+			
+		
+		
+								<li class="ajax_block_product col-xs-12 col-sm-4 col-md-3 last-in-line last-line last-item-of-tablet-line last-item-of-mobile-line last-mobile-line">
+			<div class="product-container" itemscope itemtype="https://schema.org/Product">
+				<div class="left-block">
+					<div class="product-image-container">
+						<a class="product_img_link" href="http://localhost:8080/rock/12-TheSoundOfSpeed.html" title="Larry Wallis - The Sound Of Speed" itemprop="url">
+							<img class="replace-2x img-responsive" src="http://localhost:8080/12-home_default/TheSoundOfSpeed.jpg" alt="Larry Wallis - The Sound Of Speed" title="Larry Wallis - The Sound Of Speed"  width="250" height="250" itemprop="image" />
+						</a>
+													<div class="quick-view-wrapper-mobile">
+							<a class="quick-view-mobile" href="http://localhost:8080/rock/12-TheSoundOfSpeed.html" rel="http://localhost:8080/rock/12-TheSoundOfSpeed.html">
+								<i class="icon-eye-open"></i>
+							</a>
+						</div>
+						<a class="quick-view" href="http://localhost:8080/rock/12-TheSoundOfSpeed.html" rel="http://localhost:8080/rock/12-TheSoundOfSpeed.html">
+							<span>Szybki podgląd</span>
+						</a>
+																			<div class="content_price" itemprop="offers" itemscope itemtype="https://schema.org/Offer">
+																	<span itemprop="price" class="price product-price">
+										
+										50,43 zł									</span>
+									<meta itemprop="priceCurrency" content="PLN" />
+																												<span class="unvisible">
+																								<link itemprop="availability" href="https://schema.org/InStock" />W magazynie																					</span>
+																		
+									
+															</div>
+																			<a class="new-box" href="http://localhost:8080/rock/12-TheSoundOfSpeed.html">
+								<span class="new-label">Nowy</span>
+							</a>
+																			<a class="sale-box" href="http://localhost:8080/rock/12-TheSoundOfSpeed.html">
+								<span class="sale-label">Wyprzedaż!</span>
+							</a>
+											</div>
+										
+				</div>
+				<div class="right-block">
+					<h5 itemprop="name">
+												<a class="product-name" href="http://localhost:8080/rock/12-TheSoundOfSpeed.html" title="Larry Wallis - The Sound Of Speed" itemprop="url" >
+							Larry Wallis - The Sound Of Speed
+						</a>
+					</h5>
+															<p class="product-desc" itemprop="description">
+						
+					</p>
+										<div class="content_price">
+													
+							<span class="price product-price">
+								50,43 zł							</span>
+														
+							
+							
+											</div>
+										<div class="button-container">
+																													<a class="button ajax_add_to_cart_button btn btn-default" href="http://localhost:8080/koszyk?add=1&amp;id_product=12&amp;token=f4841a5fcdf21614b267363a484f8a45" rel="nofollow" title="Dodaj do koszyka" data-id-product-attribute="0" data-id-product="12" data-minimal_quantity="1">
+									<span>Dodaj do koszyka</span>
+								</a>
+																			<a class="button lnk_view btn btn-default" href="http://localhost:8080/rock/12-TheSoundOfSpeed.html" title="Zobacz">
 							<span>Więcej</span>
 						</a>
 					</div>
