@@ -6,10 +6,10 @@ from bs4 import BeautifulSoup
 
 #Struktura danych pozwalajaca przechowywac dane o konkretnym albumie
 class Album:
-    def __init__(self, imgSrc, title, artist, genre):
+    def __init__(self, imgSrc, artist, title, genre):
         self.imgSrc = imgSrc
-        self.title = title
         self.artist = artist
+        self.title = title
         self.genre = genre
 
 pageBase = "http://www.importcds.com"

@@ -13,7 +13,7 @@ def downloadPage(url, timeToWait):
 with open("urls.txt", "a") as outputFile:
 
     itemsPerPage = 250
-    itemsNeeded = 1000
+    itemsNeeded = 1250
     pagesToScrape = itemsNeeded/itemsPerPage
 
     #liczba zebranych linkow z danej strony

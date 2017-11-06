@@ -32,7 +32,7 @@ with open("albums.csv", "r") as inputFile:
             #pobranie obrazka, wrzucenie zmodyfikowanej linii do pliku
             imageName = str(index) + ".jpg"
             downloadImage("http://" + imgSrc, pathToSave + imageName)
-            outputFile.write(imageName + ';' + artist + ';' + title + ';' + genre)
+            outputFile.write('/covers/' + imageName + ';' + artist + ';' + title + ';' + genre)
 
             index = index + 1            
 
