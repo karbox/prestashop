@@ -1,42 +1,21 @@
-<?php /*%%SmartyHeaderCode:30747856559fdd40127a849-99875441%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:64724261359ff90d7052b53-09041658%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
     '1d89e8014f347982d948469f9543b359301e5949' => 
     array (
       0 => '/var/www/html/themes/default-bootstrap/modules/blockcms/blockcms.tpl',
-      1 => 1509806631,
+      1 => 1509890571,
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '30747856559fdd40127a849-99875441',
-  'variables' => 
-  array (
-    'block' => 0,
-    'cms_titles' => 0,
-    'cms_key' => 0,
-    'cms_title' => 0,
-    'cms_page' => 0,
-    'link' => 0,
-    'show_price_drop' => 0,
-    'PS_CATALOG_MODE' => 0,
-    'show_new_products' => 0,
-    'show_best_sales' => 0,
-    'display_stores_footer' => 0,
-    'show_contact' => 0,
-    'contact_url' => 0,
-    'cmslinks' => 0,
-    'cmslink' => 0,
-    'show_sitemap' => 0,
-    'footer_text' => 0,
-    'display_poweredby' => 0,
-  ),
-  'has_nocache_code' => true,
+  'nocache_hash' => '64724261359ff90d7052b53-09041658',
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_59fdd4012ac8c7_01374287',
+  'unifunc' => 'content_59ff96fe106d44_30363508',
+  'has_nocache_code' => true,
   'cache_lifetime' => 31536000,
 ),true); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_59fdd4012ac8c7_01374287')) {function content_59fdd4012ac8c7_01374287($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_59ff96fe106d44_30363508')) {function content_59ff96fe106d44_30363508($_smarty_tpl) {?>
 	<!-- Block CMS module footer -->
 	<section class="footer-block col-xs-12 col-sm-2" id="block_various_links_footer">
 		<h4>Informacja</h4>
@@ -67,13 +46,13 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 				</a>
 			</li>
 															<li class="item">
-						<a href="http://localhost:8080/content/3-terms-and-conditions-of-use" title="Terms and conditions of use">
-							Terms and conditions of use
+						<a href="http://localhost:8080/content/3-warunki-uzytkowania" title="Warunki użytkowania">
+							Warunki użytkowania
 						</a>
 					</li>
 																<li class="item">
-						<a href="http://localhost:8080/content/4-about-us" title="About us">
-							About us
+						<a href="http://localhost:8080/content/4-o-nas" title="O nas">
+							O nas
 						</a>
 					</li>
 													<li>

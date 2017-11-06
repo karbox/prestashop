@@ -1,34 +1,27 @@
-<?php /*%%SmartyHeaderCode:144852133659fdd4012348f5-93524199%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:137357970259ff90d6f14ee2-89399522%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
     'a5880b37cb81397979bd6724b1e436aac6fc922c' => 
     array (
       0 => '/var/www/html/themes/default-bootstrap/modules/blockcategories/blockcategories_footer.tpl',
-      1 => 1509806631,
+      1 => 1509890571,
       2 => 'file',
     ),
     '5c53737510b61f5e57aa4fb383106c38f28d329a' => 
     array (
       0 => '/var/www/html/themes/default-bootstrap/modules/blockcategories/category-tree-branch.tpl',
-      1 => 1509806631,
+      1 => 1509890571,
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '144852133659fdd4012348f5-93524199',
-  'variables' => 
-  array (
-    'isDhtml' => 0,
-    'blockCategTree' => 0,
-    'child' => 0,
-    'numberColumn' => 0,
-  ),
-  'has_nocache_code' => false,
+  'nocache_hash' => '137357970259ff90d6f14ee2-89399522',
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_59fdd40124d101_81318675',
+  'unifunc' => 'content_59ff96fe0b9451_34321644',
+  'has_nocache_code' => false,
   'cache_lifetime' => 31536000,
 ),true); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_59fdd40124d101_81318675')) {function content_59fdd40124d101_81318675($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_59ff96fe0b9451_34321644')) {function content_59ff96fe0b9451_34321644($_smarty_tpl) {?>
 <!-- Block categories module -->
 <section class="blockcategories_footer footer-block col-xs-12 col-sm-2">
 	<h4>Kategorie</h4>
@@ -38,10 +31,8 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 												
 <li class="last">
 	<a 
-	href="http://localhost:8080/3-women" title="You will find here all woman fashion collections.  
- This category includes all the basics of your wardrobe and much more: 
- shoes, accessories, printed t-shirts, feminine dresses, women&#039;s jeans!">
-		Women
+	href="http://localhost:8080/3-kobiety" title="Znajdziesz tutaj wszystkie kolekcje mody dla kobiet.    Ta kategoria obejmuje wszystkie podstawowe elementy garderoby i wiele więcej:    buty, akcesoria, t-shirty z nadrukiem, sukienki damskie, dżinsy damskie!">
+		Kobiety
 	</a>
 			<ul>
 												
