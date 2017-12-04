@@ -17,11 +17,11 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'nocache_hash' => '1336625065a0053021a71c9-94719069',
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_5a006fff47be68_88388199',
+  'unifunc' => 'content_5a251a970b9d43_44303321',
   'has_nocache_code' => false,
   'cache_lifetime' => 31536000,
 ),true); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_5a006fff47be68_88388199')) {function content_5a006fff47be68_88388199($_smarty_tpl) {?><!-- Block categories module -->
+<?php if ($_valid && !is_callable('content_5a251a970b9d43_44303321')) {function content_5a251a970b9d43_44303321($_smarty_tpl) {?><!-- Block categories module -->
 <div id="categories_block_left" class="block">
 	<h2 class="title_block">
 					Kategorie
@@ -29,7 +29,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 	<div class="block_content">
 		<ul class="tree dhtml">
 												
-<li >
+<li class="last">
 	<a 
 	href="http://localhost:8080/3-cd" title="">
 		CD
@@ -356,14 +356,6 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 	</li>
 
 									</ul>
-	</li>
-
-																
-<li class="last">
-	<a 
-	href="http://localhost:8080/54-13" title="">
-		13
-	</a>
 	</li>
 
 									</ul>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>sendinblue</name>
+	<displayName><![CDATA[SendinBlue]]></displayName>
+	<version><![CDATA[2.7.0]]></version>
+	<description><![CDATA[Zsynchronizuj swoje kontakty PrestaShop z platformą SendinBlue i z łatwością wysyłaj e-maile marketingowe i transakcyjne oraz SMS-y]]></description>
+	<author><![CDATA[SendinBlue]]></author>
+	<tab><![CDATA[emailing]]></tab>
+	<confirmUninstall><![CDATA[Czy na pewno chcesz usunąć moduł SendinBlue? Uwaga: uruchomiona zostanie funkcja wysyłania php mail() (Jeżeli używałeś informacji SMTP przed SendinBlue SMTP, proszę dokonać ponownej konfiguracji dla wiadomości e-mail)]]></confirmUninstall>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>

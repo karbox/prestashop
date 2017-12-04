@@ -17,11 +17,11 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'nocache_hash' => '137357970259ff90d6f14ee2-89399522',
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_5a00705458f693_42816697',
+  'unifunc' => 'content_5a251ac155ebb4_26512124',
   'has_nocache_code' => false,
   'cache_lifetime' => 31536000,
 ),true); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_5a00705458f693_42816697')) {function content_5a00705458f693_42816697($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_5a251ac155ebb4_26512124')) {function content_5a251ac155ebb4_26512124($_smarty_tpl) {?>
 <!-- Block categories module -->
 <section class="blockcategories_footer footer-block col-xs-12 col-sm-2">
 	<h4>Kategorie</h4>
@@ -29,7 +29,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 		<div class="list">
 			<ul class="dhtml">
 												
-<li >
+<li class="last">
 	<a 
 	href="http://localhost:8080/3-cd" title="">
 		CD
@@ -166,7 +166,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 																
 <li >
 	<a 
-	href="http://localhost:8080/30-Karaoke" class="selected" title="">
+	href="http://localhost:8080/30-Karaoke" title="">
 		Karaoke
 	</a>
 	</li>
@@ -356,15 +356,6 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 	</li>
 
 									</ul>
-	</li>
-
-							
-																
-<li class="last">
-	<a 
-	href="http://localhost:8080/54-13" title="">
-		13
-	</a>
 	</li>
 
 							

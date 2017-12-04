@@ -10,22 +10,12 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     ),
   ),
   'nocache_hash' => '2193850375a006fff4a8709-77984659',
-  'variables' => 
-  array (
-    'display_link_manufacturer' => 0,
-    'link' => 0,
-    'manufacturers' => 0,
-    'text_list' => 0,
-    'text_list_nb' => 0,
-    'manufacturer' => 0,
-    'form_list' => 0,
-  ),
-  'has_nocache_code' => false,
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_5a006fff4c0b38_54664373',
+  'unifunc' => 'content_5a251a970fac24_36986949',
+  'has_nocache_code' => false,
   'cache_lifetime' => 31536000,
 ),true); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_5a006fff4c0b38_54664373')) {function content_5a006fff4c0b38_54664373($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_5a251a970fac24_36986949')) {function content_5a251a970fac24_36986949($_smarty_tpl) {?>
 <!-- Block manufacturers module -->
 <div id="manufacturers_block_left" class="block blockmanufacturer">
 	<p class="title_block">
@@ -37,8 +27,8 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 								<ul>
 														<li class="last_item">
 						<a 
-						href="http://localhost:8080/1_fashion-manufacturer" title="Około Fashion Manufacturer">
-							Fashion Manufacturer
+						href="http://localhost:8080/1_prosto-records" title="Około Prosto Records">
+							Prosto Records
 						</a>
 					</li>
 												</ul>
@@ -46,7 +36,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 					<div class="form-group selector1">
 						<select class="form-control" name="manufacturer_list">
 							<option value="0">Wszyscy producenci</option>
-													<option value="http://localhost:8080/1_fashion-manufacturer">Fashion Manufacturer</option>
+													<option value="http://localhost:8080/1_prosto-records">Prosto Records</option>
 												</select>
 					</div>
 				</form>

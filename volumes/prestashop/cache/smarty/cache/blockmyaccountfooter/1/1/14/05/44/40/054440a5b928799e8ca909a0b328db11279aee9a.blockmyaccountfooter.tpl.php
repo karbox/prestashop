@@ -11,11 +11,11 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'nocache_hash' => '202992299159ff90d70fa1f7-93430152',
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_5a006bcd766159_77837793',
+  'unifunc' => 'content_5a251dc50fc368_35777177',
   'has_nocache_code' => false,
   'cache_lifetime' => 31536000,
 ),true); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_5a006bcd766159_77837793')) {function content_5a006bcd766159_77837793($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_5a251dc50fc368_35777177')) {function content_5a251dc50fc368_35777177($_smarty_tpl) {?>
 <!-- Block myaccount module -->
 <section class="footer-block col-xs-12 col-sm-4">
 	<h4><a href="http://localhost:8080/moje-konto" title="Zarządzaj moim kontem klienta" rel="nofollow">Moje konto</a></h4>

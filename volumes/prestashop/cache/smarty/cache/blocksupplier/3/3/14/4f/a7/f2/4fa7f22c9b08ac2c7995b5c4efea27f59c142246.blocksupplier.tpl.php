@@ -10,22 +10,12 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     ),
   ),
   'nocache_hash' => '5818524515a006fff534e14-00820711',
-  'variables' => 
-  array (
-    'display_link_supplier' => 0,
-    'link' => 0,
-    'suppliers' => 0,
-    'text_list' => 0,
-    'text_list_nb' => 0,
-    'supplier' => 0,
-    'form_list' => 0,
-  ),
-  'has_nocache_code' => false,
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_5a006fff5489e8_59547959',
+  'unifunc' => 'content_5a251a971cec67_55594124',
+  'has_nocache_code' => false,
   'cache_lifetime' => 31536000,
 ),true); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_5a006fff5489e8_59547959')) {function content_5a006fff5489e8_59547959($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_5a251a971cec67_55594124')) {function content_5a251a971cec67_55594124($_smarty_tpl) {?>
 <!-- Block suppliers module -->
 <div id="suppliers_block_left" class="block blocksupplier">
 	<p class="title_block">
@@ -37,9 +27,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 								<ul>
 											<li class="last_item">
                 					<a 
-					href="http://localhost:8080/1__fashion-supplier" 
-					title="Więcej o Fashion Supplier">
-				                Fashion Supplier
+					href="http://localhost:8080/1__eminem-plytki-swirki" 
+					title="Więcej o Eminem Płytki Świrki">
+				                Eminem Płytki Świrki
                 					</a>
                 				</li>
 										</ul>
@@ -47,7 +37,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 					<div class="form-group selector1">
 						<select class="form-control" name="supplier_list">
 							<option value="0">Wszyscy dostawcy</option>
-													<option value="http://localhost:8080/1__fashion-supplier">Fashion Supplier</option>
+													<option value="http://localhost:8080/1__eminem-plytki-swirki">Eminem Płytki Świrki</option>
 												</select>
 					</div>
 				</form>

@@ -11,11 +11,11 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'nocache_hash' => '117629022659ff90d713fc87-30688137',
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_5a006fa9437e25_44590563',
+  'unifunc' => 'content_5a251a96b3e0d7_58335076',
   'has_nocache_code' => false,
   'cache_lifetime' => 31536000,
 ),true); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_5a006fa9437e25_44590563')) {function content_5a006fa9437e25_44590563($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_5a251a96b3e0d7_58335076')) {function content_5a251a96b3e0d7_58335076($_smarty_tpl) {?>
 <!-- MODULE Block contact infos -->
 <section id="block_contact_infos" class="footer-block col-xs-12 col-sm-4">
 	<div>
@@ -30,7 +30,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
             	</li>
                                     	<li>
             		<i class="icon-envelope-alt"></i>E-mail: 
-            		<span><a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;%64%6f%6e%69%61%68%61%74%61%6c%61@%67%6d%61%69%6c.%63%6f%6d" >&#x64;&#x6f;&#x6e;&#x69;&#x61;&#x68;&#x61;&#x74;&#x61;&#x6c;&#x61;&#x40;&#x67;&#x6d;&#x61;&#x69;&#x6c;&#x2e;&#x63;&#x6f;&#x6d;</a></span>
+            		<span><a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;%74%68%65%72%6f%6c%6c%69%6e%67%63%64%73@%67%6d%61%69%6c.%63%6f%6d" >&#x74;&#x68;&#x65;&#x72;&#x6f;&#x6c;&#x6c;&#x69;&#x6e;&#x67;&#x63;&#x64;&#x73;&#x40;&#x67;&#x6d;&#x61;&#x69;&#x6c;&#x2e;&#x63;&#x6f;&#x6d;</a></span>
             	</li>
                     </ul>
     </div>

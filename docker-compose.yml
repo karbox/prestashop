@@ -3,6 +3,7 @@ version: '2'
 services:
   web:
     image: prestashop/prestashop:1.6-7.0
+    restart: always
     container_name: prestashop
     ports:
       - "8080:80"
@@ -21,3 +22,4 @@ services:
       - ${PWD}/volumes/mysql:/var/lib/mysql
     environment:
       - MYSQL_ROOT_PASSWORD=admin
+

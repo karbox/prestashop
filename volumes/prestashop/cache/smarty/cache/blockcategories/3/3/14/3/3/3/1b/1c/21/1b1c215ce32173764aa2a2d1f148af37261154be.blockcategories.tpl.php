@@ -17,11 +17,11 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'nocache_hash' => '1336625065a0053021a71c9-94719069',
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_5a006fedcd5d34_03951011',
+  'unifunc' => 'content_5a25518b3727e1_30601661',
   'has_nocache_code' => false,
   'cache_lifetime' => 31536000,
 ),true); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_5a006fedcd5d34_03951011')) {function content_5a006fedcd5d34_03951011($_smarty_tpl) {?><!-- Block categories module -->
+<?php if ($_valid && !is_callable('content_5a25518b3727e1_30601661')) {function content_5a25518b3727e1_30601661($_smarty_tpl) {?><!-- Block categories module -->
 <div id="categories_block_left" class="block">
 	<h2 class="title_block">
 					CD
